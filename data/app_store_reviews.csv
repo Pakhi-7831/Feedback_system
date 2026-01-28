@@ -1,0 +1,5 @@
+review_id,platform,rating,review_text,user_name,date,app_version
+R001,Google Play,1,App crashes when I open settings,Amit,2025-01-10,3.0.1
+R002,App Store,5,Love the new UI! Works perfectly,Sara,2025-01-11,3.0.1
+R003,Google Play,3,Please add dark mode,Rohan,2025-01-12,3.0.1
+R004,App Store,2,Too slow after update,Neha,2025-01-13,3.0.2
